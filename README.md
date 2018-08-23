@@ -1,0 +1,2 @@
+# Fpt-Library
+Library javascript
